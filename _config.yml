@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: とりあえずやってみる
 tagline: ''
-email: your-email@domain.com
+email: mkataigi@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   技術的な内容とかとりあえずやってみたこと
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -42,7 +42,7 @@ permalink: pretty
 
 author:
   name: 'Makoto Kataigi'
-  url: https://twitter.com/mdo
+  url: https://twitter.com/mkataigi
 
 paginate: 5
 
