@@ -39,7 +39,6 @@ exclude:
 
 # Permalinks
 permalink: pretty
-relative_permalinks: true
 
 author:
   name: 'Makoto Kataigi'
